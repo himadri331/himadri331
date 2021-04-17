@@ -37,12 +37,7 @@
             alt="html5" width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         target="_blank"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>  <a href="https://www..org" target="_blank"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons//-original.svg"
-            alt="" width="40" height="40" /> </a> 
-    <a href="https://wiki..org/moin/TkInter" target="_blank"> <img
-            src="https://i2.wp.com/iot4beginners.com/wp-content/uploads/2020/04/65dc5834-de21-4e2e-bd4d-5e0c3c6994dd.jpg?fit=375%2C422&ssl=1"
-            alt="tkinter" width="40" height="40" /> </a>
+            alt="javascript" width="40" height="40" /> </a>  
     
     
 </p>
