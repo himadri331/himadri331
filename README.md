@@ -10,13 +10,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://www.facebook.com/shauryapratap.singh.3914207" target="blank"><img align="center"
+    <a href="https://www.facebook.com/himadri.bhavsar.90" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30"
             width="40" /></a>
-    <a href="https://www.linkedin.com/in/shaurya-pratap-7298ab1a5" target="blank"><img align="center"
+    <a href="https://www.linkedin.com/in/himadri-bhavsar-1a6010201" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30"
             width="40" /></a>
-    <a href="https://instagram.com/spsingh2157?igshid=o6xjzzdzcv1q" target="blank"><img align="center"
+    <a href="https://instagram.com/hi_madri_04?igshid=t9270vr6vk2k" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30"
             width="40" /></a>
    
