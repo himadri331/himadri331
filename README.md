@@ -39,7 +39,7 @@
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a> <a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-       <img align="left" alt="Flutter" height=40px width="40px" 
+       <img align="left" alt="Flutter" height=40px width="50px" 
             src="https://user-images.githubusercontent.com/60929919/89158591-ff61ee80-d58b-11ea-9305-969d9e92363a.png" />
     
     
